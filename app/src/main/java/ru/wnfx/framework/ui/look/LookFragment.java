@@ -55,6 +55,7 @@ public class LookFragment extends BaseFragment implements LookContract.View{
             bundle.putString("day",currentDay);
             bundle.putString("id",id);
             bundle.putString("type", "edit");
+            Navigation.findNavController(requireView()).navigate(R.id.addEdit, bundle);
         });
     }
 

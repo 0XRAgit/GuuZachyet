@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Framework</string>
+    <string name="app_name">Зачёт Гуу</string>
     <string name="lesson">Предмет:</string>
     <string name="time">Время:</string>
     <string name="teacher">Преподователь:</string>

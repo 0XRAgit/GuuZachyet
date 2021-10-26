@@ -7,6 +7,7 @@ import ru.wnfx.framework.ui.look.LookContract;
 public class AddEditContract {
     public interface View extends BaseView {
         void getedLesson(Lesson lesson);
+        void readyUpdate();
     }
 
     interface Presenter extends ru.wnfx.framework.ui.base.Presenter<AddEditContract.View> {

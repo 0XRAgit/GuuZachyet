@@ -56,6 +56,12 @@ public class MainFragment extends BaseFragment implements MainContract.View, Tab
     }
 
     private void setViewClickListeners() {
+        binding.add.setOnClickListener(v->{
+            Bundle bundle = new Bundle();
+            bundle.putString("day",currentDay);
+            bundle.putString("type", "add");
+            Navigation.findNavController(requireView()).navigate(R.id.addEdit, bundle);
+        });
     }
 
     @Override
