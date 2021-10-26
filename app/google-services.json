@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "413110461724",
+    "firebase_url": "https://guuzachyet-default-rtdb.firebaseio.com",
+    "project_id": "guuzachyet",
+    "storage_bucket": "guuzachyet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:413110461724:android:4415b63bbb71053cd246d9",
+        "android_client_info": {
+          "package_name": "ru.oxra.guuzachyet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "413110461724-0alfs1e2ic63acsltn01er82kr427mi6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuPj9iKmmwp917phmB8NH6rJj3ht2Eh_E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "413110461724-0alfs1e2ic63acsltn01er82kr427mi6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

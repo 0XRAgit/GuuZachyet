@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Framework</string>
+    <string name="lesson">Предмет:</string>
+    <string name="time">Время:</string>
+    <string name="teacher">Преподователь:</string>
+    <string name="audi">Аудитория:</string>
+    <string name="desc">Описание:</string>
+    <string name="startTime">Время начала:</string>
+    <string name="timeEnd">Время конца:</string>
+</resources>
